@@ -30,6 +30,6 @@ Tenho conhecimento em:
 
 Você pode me encontrar aqui:
 
-- [LinkedIn]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/markscardoso/)) 
+- [LinkedIn] https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/markscardoso/
 - E-mail: marks.dev@hotmail.com 
 ---
