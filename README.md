@@ -1,16 +1,35 @@
-## Hi there 👋
+#  Olá! Me chamo Marks Cardoso
 
-<!--
-**MarksCardoso/MarksCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, em busca de uma oportunidade de estágio na área de **desenvolvimento de software**, com foco em backend.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Sobre mim
+
+Tenho conhecimento em:
+
+- **Java** (foco em backend)
+- **Git e GitHub**
+- Noções básicas de **Spring Boot**
+- Trabalho em equipe, colaborando em projetos acadêmicos e pessoais
+- Aplicação de boas práticas de desenvolvimento, sempre buscando aprender e evoluir tecnicamente
+
+---
+
+## 🚀 Principais competências
+
+- Java
+- Git
+- Spring Boot
+- Desenvolvimento de software
+- Trabalho em equipe
+
+---
+
+## 📫 Contato
+
+Você pode me encontrar aqui:
+
+- [LinkedIn]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/markscardoso/)) 
+- E-mail: marks.dev@hotmail.com 
+---
