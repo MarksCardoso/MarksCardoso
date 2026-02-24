@@ -1,6 +1,6 @@
 #  Olá! Me chamo Marks Cardoso
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, em busca de uma oportunidade de estágio na área de **desenvolvimento de software**, com foco em backend.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no terceiro semestre em busca de uma oportunidade de estágio na área de **desenvolvimento de software**, com foco em backend.
 
 ---
 
@@ -9,6 +9,7 @@
 Tenho conhecimento em:
 
 - **Java**
+- Javascript
 - PostgreSQL
 - **Git e GitHub**
 - Noções básicas de **Spring Boot**
