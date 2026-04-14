@@ -9,7 +9,7 @@
 Tenho conhecimento em:
 
 - **Java**
-- Javascript
+- Python
 - PostgreSQL
 - **Git e GitHub**
 - Noções básicas de **Spring Boot**
